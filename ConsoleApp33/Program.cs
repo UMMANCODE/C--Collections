@@ -69,7 +69,7 @@ do {
             } while (string.IsNullOrWhiteSpace(search));
 
             foreach (string? b in library.books) {
-                if (b.Contains(search)) {
+                if (b.ToLower().Contains(search.ToLower())) {
                     Console.WriteLine(b);
                 }
             }

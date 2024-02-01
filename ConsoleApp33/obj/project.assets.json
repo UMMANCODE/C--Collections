@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp33\\ConsoleApp33\\ConsoleApp33.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\Code Academy\\C#-Collections\\ConsoleApp33\\ConsoleApp33.csproj",
       "projectName": "ConsoleApp33",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp33\\ConsoleApp33\\ConsoleApp33.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\Code Academy\\C#-Collections\\ConsoleApp33\\ConsoleApp33.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp33\\ConsoleApp33\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\Code Academy\\C#-Collections\\ConsoleApp33\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
